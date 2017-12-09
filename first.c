@@ -4,3 +4,4 @@ git commit multiline
 git commit -a
 git commit -amend
 git remote
+git branch master
