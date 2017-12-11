@@ -7,4 +7,5 @@ git remote
 git branch
 git branch testing
 git branch master
+git commit -i
 
